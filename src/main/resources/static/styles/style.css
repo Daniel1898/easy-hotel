@@ -1,0 +1,24 @@
+body
+{
+    padding-top: 80px;
+}
+.nomer
+{
+    background: #e9e9eb;
+    padding: 10px;
+    border-radius: 5px;
+}
+.nomer-img
+{
+    margin-bottom: 20px;
+}
+footer
+{
+    height: 60px;
+    background: #dcdcde;
+    margin-top: 20px;
+}
+.hidden_inp
+{
+    display: none;
+}
